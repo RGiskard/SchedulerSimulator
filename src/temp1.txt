@@ -1,0 +1,1824 @@
+T = 356731
+Performance : 0.326076
+Slowdown : inf
+	App 0 has 0 instances, for a yield of 0.
+	App 1 has 4 instances, for a yield of 0.926677.
+	App 2 has 4 instances, for a yield of 0.827405.
+	App 3 has 2 instances, for a yield of 0.67927.
+T = 360299
+Performance : 0.914262
+Slowdown : 1.11707
+	App 0 has 1 instances, for a yield of 0.985692.
+	App 1 has 4 instances, for a yield of 0.917502.
+	App 2 has 4 instances, for a yield of 0.819213.
+	App 3 has 2 instances, for a yield of 0.672545.
+T = 363902
+Performance : 0.90521
+Slowdown : 1.12824
+	App 0 has 1 instances, for a yield of 0.975932.
+	App 1 has 4 instances, for a yield of 0.908418.
+	App 2 has 4 instances, for a yield of 0.811102.
+	App 3 has 2 instances, for a yield of 0.665886.
+T = 367541
+Performance : 0.896248
+Slowdown : 1.13952
+	App 0 has 1 instances, for a yield of 0.96627.
+	App 1 has 4 instances, for a yield of 0.899423.
+	App 2 has 4 instances, for a yield of 0.803072.
+	App 3 has 2 instances, for a yield of 0.659293.
+T = 371216
+Performance : 0.887374
+Slowdown : 1.15092
+	App 0 has 1 instances, for a yield of 0.956703.
+	App 1 has 4 instances, for a yield of 0.890518.
+	App 2 has 4 instances, for a yield of 0.79512.
+	App 3 has 2 instances, for a yield of 0.652765.
+T = 374928
+Performance : 0.878588
+Slowdown : 1.16243
+	App 0 has 1 instances, for a yield of 0.94723.
+	App 1 has 4 instances, for a yield of 0.881701.
+	App 2 has 4 instances, for a yield of 0.787248.
+	App 3 has 2 instances, for a yield of 0.646302.
+T = 378678
+Performance : 0.869889
+Slowdown : 1.17405
+	App 0 has 1 instances, for a yield of 0.937852.
+	App 1 has 4 instances, for a yield of 0.872971.
+	App 2 has 4 instances, for a yield of 0.779453.
+	App 3 has 2 instances, for a yield of 0.639903.
+T = 382464
+Performance : 0.861276
+Slowdown : 1.18579
+	App 0 has 1 instances, for a yield of 0.928566.
+	App 1 has 4 instances, for a yield of 0.864328.
+	App 2 has 4 instances, for a yield of 0.771736.
+	App 3 has 2 instances, for a yield of 0.633568.
+T = 386289
+Performance : 0.852749
+Slowdown : 1.19765
+	App 0 has 1 instances, for a yield of 0.919372.
+	App 1 has 4 instances, for a yield of 0.85577.
+	App 2 has 4 instances, for a yield of 0.764095.
+	App 3 has 2 instances, for a yield of 0.627295.
+T = 390152
+Performance : 0.844306
+Slowdown : 1.20963
+	App 0 has 1 instances, for a yield of 0.91027.
+	App 1 has 4 instances, for a yield of 0.847297.
+	App 2 has 4 instances, for a yield of 0.75653.
+	App 3 has 2 instances, for a yield of 0.621084.
+T = 394053
+Performance : 0.835946
+Slowdown : 1.22172
+	App 0 has 1 instances, for a yield of 0.901257.
+	App 1 has 4 instances, for a yield of 0.838908.
+	App 2 has 4 instances, for a yield of 0.749039.
+	App 3 has 2 instances, for a yield of 0.614934.
+T = 397994
+Performance : 0.82767
+Slowdown : 1.23394
+	App 0 has 1 instances, for a yield of 0.892334.
+	App 1 has 4 instances, for a yield of 0.830602.
+	App 2 has 4 instances, for a yield of 0.741623.
+	App 3 has 2 instances, for a yield of 0.608846.
+T = 401974
+Performance : 0.819475
+Slowdown : 1.24628
+	App 0 has 1 instances, for a yield of 0.883499.
+	App 1 has 4 instances, for a yield of 0.822379.
+	App 2 has 4 instances, for a yield of 0.73428.
+	App 3 has 2 instances, for a yield of 0.602818.
+T = 405994
+Performance : 0.847712
+Slowdown : 1.23311
+	App 0 has 1 instances, for a yield of 0.874751.
+	App 1 has 4 instances, for a yield of 0.814236.
+	App 2 has 5 instances, for a yield of 0.908763.
+	App 3 has 2 instances, for a yield of 0.596849.
+T = 410054
+Performance : 0.839319
+Slowdown : 1.24544
+	App 0 has 1 instances, for a yield of 0.86609.
+	App 1 has 4 instances, for a yield of 0.806174.
+	App 2 has 5 instances, for a yield of 0.899765.
+	App 3 has 2 instances, for a yield of 0.59094.
+T = 414154
+Performance : 0.831009
+Slowdown : 1.2579
+	App 0 has 1 instances, for a yield of 0.857515.
+	App 1 has 4 instances, for a yield of 0.798193.
+	App 2 has 5 instances, for a yield of 0.890857.
+	App 3 has 2 instances, for a yield of 0.585089.
+T = 418296
+Performance : 0.822781
+Slowdown : 1.27048
+	App 0 has 1 instances, for a yield of 0.849025.
+	App 1 has 4 instances, for a yield of 0.79029.
+	App 2 has 5 instances, for a yield of 0.882036.
+	App 3 has 2 instances, for a yield of 0.579296.
+T = 422479
+Performance : 0.814634
+Slowdown : 1.28318
+	App 0 has 1 instances, for a yield of 0.840619.
+	App 1 has 4 instances, for a yield of 0.782465.
+	App 2 has 5 instances, for a yield of 0.873303.
+	App 3 has 2 instances, for a yield of 0.57356.
+T = 426703
+Performance : 0.825937
+Slowdown : 1.29601
+	App 0 has 1 instances, for a yield of 0.832296.
+	App 1 has 5 instances, for a yield of 0.968397.
+	App 2 has 5 instances, for a yield of 0.864657.
+	App 3 has 2 instances, for a yield of 0.567882.
+T = 430970
+Performance : 0.817759
+Slowdown : 1.30897
+	App 0 has 1 instances, for a yield of 0.824055.
+	App 1 has 5 instances, for a yield of 0.958809.
+	App 2 has 5 instances, for a yield of 0.856096.
+	App 3 has 2 instances, for a yield of 0.562259.
+T = 435280
+Performance : 0.809662
+Slowdown : 1.32206
+	App 0 has 1 instances, for a yield of 0.815896.
+	App 1 has 5 instances, for a yield of 0.949316.
+	App 2 has 5 instances, for a yield of 0.847619.
+	App 3 has 2 instances, for a yield of 0.556692.
+T = 439633
+Performance : 0.801646
+Slowdown : 1.33529
+	App 0 has 1 instances, for a yield of 0.807818.
+	App 1 has 5 instances, for a yield of 0.939917.
+	App 2 has 5 instances, for a yield of 0.839227.
+	App 3 has 2 instances, for a yield of 0.55118.
+T = 444029
+Performance : 0.793709
+Slowdown : 1.34864
+	App 0 has 1 instances, for a yield of 0.79982.
+	App 1 has 5 instances, for a yield of 0.930611.
+	App 2 has 5 instances, for a yield of 0.830918.
+	App 3 has 2 instances, for a yield of 0.545723.
+T = 448469
+Performance : 0.78585
+Slowdown : 1.36212
+	App 0 has 1 instances, for a yield of 0.791901.
+	App 1 has 5 instances, for a yield of 0.921397.
+	App 2 has 5 instances, for a yield of 0.822691.
+	App 3 has 2 instances, for a yield of 0.54032.
+T = 452954
+Performance : 0.77807
+Slowdown : 1.37575
+	App 0 has 1 instances, for a yield of 0.78406.
+	App 1 has 5 instances, for a yield of 0.912274.
+	App 2 has 5 instances, for a yield of 0.814546.
+	App 3 has 2 instances, for a yield of 0.53497.
+T = 457484
+Performance : 0.770366
+Slowdown : 1.3895
+	App 0 has 1 instances, for a yield of 0.776297.
+	App 1 has 5 instances, for a yield of 0.903242.
+	App 2 has 5 instances, for a yield of 0.806481.
+	App 3 has 2 instances, for a yield of 0.529673.
+T = 462059
+Performance : 0.762739
+Slowdown : 1.4034
+	App 0 has 1 instances, for a yield of 0.768611.
+	App 1 has 5 instances, for a yield of 0.894299.
+	App 2 has 5 instances, for a yield of 0.798496.
+	App 3 has 2 instances, for a yield of 0.524429.
+T = 466679
+Performance : 0.755187
+Slowdown : 1.41743
+	App 0 has 1 instances, for a yield of 0.761001.
+	App 1 has 5 instances, for a yield of 0.885444.
+	App 2 has 5 instances, for a yield of 0.79059.
+	App 3 has 2 instances, for a yield of 0.519237.
+T = 471346
+Performance : 0.74771
+Slowdown : 1.43161
+	App 0 has 1 instances, for a yield of 0.753466.
+	App 1 has 5 instances, for a yield of 0.876677.
+	App 2 has 5 instances, for a yield of 0.782762.
+	App 3 has 2 instances, for a yield of 0.514096.
+T = 476059
+Performance : 0.740307
+Slowdown : 1.44592
+	App 0 has 1 instances, for a yield of 0.746006.
+	App 1 has 5 instances, for a yield of 0.867997.
+	App 2 has 5 instances, for a yield of 0.775012.
+	App 3 has 2 instances, for a yield of 0.509006.
+T = 480820
+Performance : 0.732977
+Slowdown : 1.46038
+	App 0 has 1 instances, for a yield of 0.73862.
+	App 1 has 5 instances, for a yield of 0.859403.
+	App 2 has 5 instances, for a yield of 0.767339.
+	App 3 has 2 instances, for a yield of 0.503966.
+T = 485628
+Performance : 0.756109
+Slowdown : 1.47499
+	App 0 has 1 instances, for a yield of 0.731307.
+	App 1 has 5 instances, for a yield of 0.850894.
+	App 2 has 6 instances, for a yield of 0.91169.
+	App 3 has 2 instances, for a yield of 0.498976.
+T = 490484
+Performance : 0.748623
+Slowdown : 1.48974
+	App 0 has 1 instances, for a yield of 0.724066.
+	App 1 has 5 instances, for a yield of 0.84247.
+	App 2 has 6 instances, for a yield of 0.902663.
+	App 3 has 2 instances, for a yield of 0.494036.
+T = 495389
+Performance : 0.765668
+Slowdown : 1.38696
+	App 0 has 1 instances, for a yield of 0.716898.
+	App 1 has 5 instances, for a yield of 0.834128.
+	App 2 has 6 instances, for a yield of 0.893726.
+	App 3 has 3 instances, for a yield of 0.733717.
+T = 500343
+Performance : 0.758087
+Slowdown : 1.40083
+	App 0 has 1 instances, for a yield of 0.7098.
+	App 1 has 5 instances, for a yield of 0.82587.
+	App 2 has 6 instances, for a yield of 0.884877.
+	App 3 has 3 instances, for a yield of 0.726452.
+T = 505347
+Performance : 0.750581
+Slowdown : 1.41484
+	App 0 has 1 instances, for a yield of 0.702772.
+	App 1 has 5 instances, for a yield of 0.817693.
+	App 2 has 6 instances, for a yield of 0.876116.
+	App 3 has 3 instances, for a yield of 0.71926.
+T = 510400
+Performance : 0.759342
+Slowdown : 1.42899
+	App 0 has 1 instances, for a yield of 0.695814.
+	App 1 has 6 instances, for a yield of 0.971516.
+	App 2 has 6 instances, for a yield of 0.867441.
+	App 3 has 3 instances, for a yield of 0.712138.
+T = 515504
+Performance : 0.751824
+Slowdown : 1.44328
+	App 0 has 1 instances, for a yield of 0.688924.
+	App 1 has 6 instances, for a yield of 0.961897.
+	App 2 has 6 instances, for a yield of 0.858853.
+	App 3 has 3 instances, for a yield of 0.705087.
+T = 520659
+Performance : 0.74438
+Slowdown : 1.45771
+	App 0 has 1 instances, for a yield of 0.682103.
+	App 1 has 6 instances, for a yield of 0.952374.
+	App 2 has 6 instances, for a yield of 0.850349.
+	App 3 has 3 instances, for a yield of 0.698106.
+T = 525866
+Performance : 0.73701
+Slowdown : 1.47229
+	App 0 has 1 instances, for a yield of 0.67535.
+	App 1 has 6 instances, for a yield of 0.942944.
+	App 2 has 6 instances, for a yield of 0.84193.
+	App 3 has 3 instances, for a yield of 0.691194.
+T = 531124
+Performance : 0.729713
+Slowdown : 1.48701
+	App 0 has 1 instances, for a yield of 0.668663.
+	App 1 has 6 instances, for a yield of 0.933608.
+	App 2 has 6 instances, for a yield of 0.833594.
+	App 3 has 3 instances, for a yield of 0.684351.
+T = 536436
+Performance : 0.722488
+Slowdown : 1.50188
+	App 0 has 1 instances, for a yield of 0.662043.
+	App 1 has 6 instances, for a yield of 0.924364.
+	App 2 has 6 instances, for a yield of 0.825341.
+	App 3 has 3 instances, for a yield of 0.677575.
+T = 541800
+Performance : 0.715334
+Slowdown : 1.5169
+	App 0 has 1 instances, for a yield of 0.655488.
+	App 1 has 6 instances, for a yield of 0.915212.
+	App 2 has 6 instances, for a yield of 0.817169.
+	App 3 has 3 instances, for a yield of 0.670866.
+T = 547218
+Performance : 0.708252
+Slowdown : 1.53207
+	App 0 has 1 instances, for a yield of 0.648998.
+	App 1 has 6 instances, for a yield of 0.906151.
+	App 2 has 6 instances, for a yield of 0.809078.
+	App 3 has 3 instances, for a yield of 0.664224.
+T = 552690
+Performance : 0.70124
+Slowdown : 1.54739
+	App 0 has 1 instances, for a yield of 0.642572.
+	App 1 has 6 instances, for a yield of 0.897179.
+	App 2 has 6 instances, for a yield of 0.801068.
+	App 3 has 3 instances, for a yield of 0.657648.
+T = 558217
+Performance : 0.694297
+Slowdown : 1.56286
+	App 0 has 1 instances, for a yield of 0.63621.
+	App 1 has 6 instances, for a yield of 0.888296.
+	App 2 has 6 instances, for a yield of 0.793136.
+	App 3 has 3 instances, for a yield of 0.651136.
+T = 563799
+Performance : 0.687422
+Slowdown : 1.57849
+	App 0 has 1 instances, for a yield of 0.629911.
+	App 1 has 6 instances, for a yield of 0.879501.
+	App 2 has 6 instances, for a yield of 0.785283.
+	App 3 has 3 instances, for a yield of 0.64469.
+T = 569437
+Performance : 0.706533
+Slowdown : 1.59428
+	App 0 has 1 instances, for a yield of 0.623674.
+	App 1 has 6 instances, for a yield of 0.870793.
+	App 2 has 7 instances, for a yield of 0.907093.
+	App 3 has 3 instances, for a yield of 0.638306.
+T = 575132
+Performance : 0.699538
+Slowdown : 1.61022
+	App 0 has 1 instances, for a yield of 0.617499.
+	App 1 has 6 instances, for a yield of 0.862171.
+	App 2 has 7 instances, for a yield of 0.898112.
+	App 3 has 3 instances, for a yield of 0.631987.
+T = 580883
+Performance : 0.692612
+Slowdown : 1.62632
+	App 0 has 1 instances, for a yield of 0.611385.
+	App 1 has 6 instances, for a yield of 0.853635.
+	App 2 has 7 instances, for a yield of 0.88922.
+	App 3 has 3 instances, for a yield of 0.625729.
+T = 586692
+Performance : 0.685754
+Slowdown : 1.64258
+	App 0 has 1 instances, for a yield of 0.605332.
+	App 1 has 6 instances, for a yield of 0.845183.
+	App 2 has 7 instances, for a yield of 0.880416.
+	App 3 has 3 instances, for a yield of 0.619534.
+T = 592559
+Performance : 0.678964
+Slowdown : 1.65901
+	App 0 has 1 instances, for a yield of 0.599339.
+	App 1 has 6 instances, for a yield of 0.836815.
+	App 2 has 7 instances, for a yield of 0.871699.
+	App 3 has 3 instances, for a yield of 0.6134.
+T = 598484
+Performance : 0.686051
+Slowdown : 1.6756
+	App 0 has 1 instances, for a yield of 0.593405.
+	App 1 has 7 instances, for a yield of 0.966618.
+	App 2 has 7 instances, for a yield of 0.863068.
+	App 3 has 3 instances, for a yield of 0.607327.
+T = 604469
+Performance : 0.679258
+Slowdown : 1.69236
+	App 0 has 1 instances, for a yield of 0.587529.
+	App 1 has 7 instances, for a yield of 0.957048.
+	App 2 has 7 instances, for a yield of 0.854523.
+	App 3 has 3 instances, for a yield of 0.601314.
+T = 610514
+Performance : 0.672533
+Slowdown : 1.70928
+	App 0 has 1 instances, for a yield of 0.581712.
+	App 1 has 7 instances, for a yield of 0.947572.
+	App 2 has 7 instances, for a yield of 0.846062.
+	App 3 has 3 instances, for a yield of 0.59536.
+T = 616619
+Performance : 0.665874
+Slowdown : 1.72637
+	App 0 has 1 instances, for a yield of 0.575953.
+	App 1 has 7 instances, for a yield of 0.93819.
+	App 2 has 7 instances, for a yield of 0.837685.
+	App 3 has 3 instances, for a yield of 0.589465.
+T = 622785
+Performance : 0.659281
+Slowdown : 1.74364
+	App 0 has 1 instances, for a yield of 0.57025.
+	App 1 has 7 instances, for a yield of 0.928901.
+	App 2 has 7 instances, for a yield of 0.829391.
+	App 3 has 3 instances, for a yield of 0.583629.
+T = 629013
+Performance : 0.652754
+Slowdown : 1.76107
+	App 0 has 1 instances, for a yield of 0.564604.
+	App 1 has 7 instances, for a yield of 0.919704.
+	App 2 has 7 instances, for a yield of 0.82118.
+	App 3 has 3 instances, for a yield of 0.57785.
+T = 635303
+Performance : 0.646291
+Slowdown : 1.77868
+	App 0 has 1 instances, for a yield of 0.559014.
+	App 1 has 7 instances, for a yield of 0.910598.
+	App 2 has 7 instances, for a yield of 0.813049.
+	App 3 has 3 instances, for a yield of 0.572129.
+T = 641656
+Performance : 0.639892
+Slowdown : 1.79647
+	App 0 has 1 instances, for a yield of 0.553479.
+	App 1 has 7 instances, for a yield of 0.901582.
+	App 2 has 7 instances, for a yield of 0.804999.
+	App 3 has 3 instances, for a yield of 0.566465.
+T = 648073
+Performance : 0.656329
+Slowdown : 1.81444
+	App 0 has 1 instances, for a yield of 0.547999.
+	App 1 has 7 instances, for a yield of 0.892655.
+	App 2 has 8 instances, for a yield of 0.91089.
+	App 3 has 3 instances, for a yield of 0.560856.
+T = 654553
+Performance : 0.64983
+Slowdown : 1.83258
+	App 0 has 1 instances, for a yield of 0.542574.
+	App 1 has 7 instances, for a yield of 0.883817.
+	App 2 has 8 instances, for a yield of 0.901871.
+	App 3 has 3 instances, for a yield of 0.555303.
+T = 661099
+Performance : 0.661723
+Slowdown : 1.85091
+	App 0 has 1 instances, for a yield of 0.537202.
+	App 1 has 7 instances, for a yield of 0.875067.
+	App 2 has 8 instances, for a yield of 0.892942.
+	App 3 has 4 instances, for a yield of 0.733073.
+T = 667710
+Performance : 0.655172
+Slowdown : 1.86941
+	App 0 has 1 instances, for a yield of 0.531883.
+	App 1 has 7 instances, for a yield of 0.866403.
+	App 2 has 8 instances, for a yield of 0.884101.
+	App 3 has 4 instances, for a yield of 0.725815.
+T = 674387
+Performance : 0.648685
+Slowdown : 1.88811
+	App 0 has 1 instances, for a yield of 0.526617.
+	App 1 has 7 instances, for a yield of 0.857824.
+	App 2 has 8 instances, for a yield of 0.875347.
+	App 3 has 4 instances, for a yield of 0.718629.
+T = 681131
+Performance : 0.654395
+Slowdown : 1.90699
+	App 0 has 1 instances, for a yield of 0.521402.
+	App 1 has 8 instances, for a yield of 0.970664.
+	App 2 has 8 instances, for a yield of 0.866681.
+	App 3 has 4 instances, for a yield of 0.711514.
+T = 687942
+Performance : 0.647916
+Slowdown : 1.92606
+	App 0 has 1 instances, for a yield of 0.51624.
+	App 1 has 8 instances, for a yield of 0.961054.
+	App 2 has 8 instances, for a yield of 0.8581.
+	App 3 has 4 instances, for a yield of 0.704469.
+T = 694822
+Performance : 0.641501
+Slowdown : 1.94532
+	App 0 has 1 instances, for a yield of 0.511129.
+	App 1 has 8 instances, for a yield of 0.951538.
+	App 2 has 8 instances, for a yield of 0.849604.
+	App 3 has 4 instances, for a yield of 0.697494.
+T = 701770
+Performance : 0.63515
+Slowdown : 1.96477
+	App 0 has 1 instances, for a yield of 0.506068.
+	App 1 has 8 instances, for a yield of 0.942117.
+	App 2 has 8 instances, for a yield of 0.841192.
+	App 3 has 4 instances, for a yield of 0.690588.
+T = 708788
+Performance : 0.628861
+Slowdown : 1.98442
+	App 0 has 1 instances, for a yield of 0.501058.
+	App 1 has 8 instances, for a yield of 0.932789.
+	App 2 has 8 instances, for a yield of 0.832863.
+	App 3 has 4 instances, for a yield of 0.683751.
+T = 715875
+Performance : 0.920293
+Slowdown : 1.10975
+	App 0 has 2 instances, for a yield of 0.992193.
+	App 1 has 8 instances, for a yield of 0.923554.
+	App 2 has 8 instances, for a yield of 0.824617.
+	App 3 has 4 instances, for a yield of 0.676981.
+T = 723034
+Performance : 0.911181
+Slowdown : 1.12085
+	App 0 has 2 instances, for a yield of 0.982369.
+	App 1 has 8 instances, for a yield of 0.914409.
+	App 2 has 8 instances, for a yield of 0.816452.
+	App 3 has 4 instances, for a yield of 0.670278.
+T = 730265
+Performance : 0.922369
+Slowdown : 1.10901
+	App 0 has 2 instances, for a yield of 0.972643.
+	App 1 has 8 instances, for a yield of 0.905356.
+	App 2 has 9 instances, for a yield of 0.909415.
+	App 3 has 4 instances, for a yield of 0.663642.
+T = 737567
+Performance : 0.913236
+Slowdown : 1.1201
+	App 0 has 2 instances, for a yield of 0.963013.
+	App 1 has 8 instances, for a yield of 0.896392.
+	App 2 has 9 instances, for a yield of 0.900411.
+	App 3 has 4 instances, for a yield of 0.657071.
+T = 744943
+Performance : 0.904194
+Slowdown : 1.1313
+	App 0 has 2 instances, for a yield of 0.953478.
+	App 1 has 8 instances, for a yield of 0.887517.
+	App 2 has 9 instances, for a yield of 0.891496.
+	App 3 has 4 instances, for a yield of 0.650565.
+T = 752392
+Performance : 0.895242
+Slowdown : 1.14261
+	App 0 has 2 instances, for a yield of 0.944038.
+	App 1 has 8 instances, for a yield of 0.87873.
+	App 2 has 9 instances, for a yield of 0.882669.
+	App 3 has 4 instances, for a yield of 0.644124.
+T = 759916
+Performance : 0.886378
+Slowdown : 1.15404
+	App 0 has 2 instances, for a yield of 0.934691.
+	App 1 has 8 instances, for a yield of 0.870029.
+	App 2 has 9 instances, for a yield of 0.87393.
+	App 3 has 4 instances, for a yield of 0.637747.
+T = 767515
+Performance : 0.88837
+Slowdown : 1.16558
+	App 0 has 2 instances, for a yield of 0.925436.
+	App 1 has 9 instances, for a yield of 0.969092.
+	App 2 has 9 instances, for a yield of 0.865277.
+	App 3 has 4 instances, for a yield of 0.631432.
+T = 775191
+Performance : 0.879574
+Slowdown : 1.17723
+	App 0 has 2 instances, for a yield of 0.916274.
+	App 1 has 9 instances, for a yield of 0.959497.
+	App 2 has 9 instances, for a yield of 0.85671.
+	App 3 has 4 instances, for a yield of 0.62518.
+T = 782942
+Performance : 0.870865
+Slowdown : 1.18901
+	App 0 has 2 instances, for a yield of 0.907202.
+	App 1 has 9 instances, for a yield of 0.949997.
+	App 2 has 9 instances, for a yield of 0.848228.
+	App 3 has 4 instances, for a yield of 0.618991.
+T = 790772
+Performance : 0.862243
+Slowdown : 1.2009
+	App 0 has 2 instances, for a yield of 0.89822.
+	App 1 has 9 instances, for a yield of 0.940591.
+	App 2 has 9 instances, for a yield of 0.839829.
+	App 3 has 4 instances, for a yield of 0.612862.
+T = 798680
+Performance : 0.853706
+Slowdown : 1.2129
+	App 0 has 2 instances, for a yield of 0.889326.
+	App 1 has 9 instances, for a yield of 0.931278.
+	App 2 has 9 instances, for a yield of 0.831514.
+	App 3 has 4 instances, for a yield of 0.606794.
+T = 806666
+Performance : 0.863548
+Slowdown : 1.22503
+	App 0 has 2 instances, for a yield of 0.880521.
+	App 1 has 9 instances, for a yield of 0.922058.
+	App 2 has 10 instances, for a yield of 0.914757.
+	App 3 has 4 instances, for a yield of 0.600786.
+T = 814733
+Performance : 0.854998
+Slowdown : 1.23728
+	App 0 has 2 instances, for a yield of 0.871803.
+	App 1 has 9 instances, for a yield of 0.912928.
+	App 2 has 10 instances, for a yield of 0.9057.
+	App 3 has 4 instances, for a yield of 0.594838.
+T = 822880
+Performance : 0.846533
+Slowdown : 1.24966
+	App 0 has 2 instances, for a yield of 0.863171.
+	App 1 has 9 instances, for a yield of 0.90389.
+	App 2 has 10 instances, for a yield of 0.896733.
+	App 3 has 4 instances, for a yield of 0.588948.
+T = 831109
+Performance : 0.85273
+Slowdown : 1.16344
+	App 0 has 2 instances, for a yield of 0.854625.
+	App 1 has 9 instances, for a yield of 0.89494.
+	App 2 has 10 instances, for a yield of 0.887854.
+	App 3 has 5 instances, for a yield of 0.728896.
+T = 839420
+Performance : 0.844287
+Slowdown : 1.17508
+	App 0 has 2 instances, for a yield of 0.846163.
+	App 1 has 9 instances, for a yield of 0.886079.
+	App 2 has 10 instances, for a yield of 0.879063.
+	App 3 has 5 instances, for a yield of 0.72168.
+T = 847814
+Performance : 0.835927
+Slowdown : 1.18683
+	App 0 has 2 instances, for a yield of 0.837786.
+	App 1 has 9 instances, for a yield of 0.877306.
+	App 2 has 10 instances, for a yield of 0.87036.
+	App 3 has 5 instances, for a yield of 0.714534.
+T = 856293
+Performance : 0.837302
+Slowdown : 1.1987
+	App 0 has 2 instances, for a yield of 0.829491.
+	App 1 has 10 instances, for a yield of 0.965133.
+	App 2 has 10 instances, for a yield of 0.861742.
+	App 3 has 5 instances, for a yield of 0.70746.
+T = 864856
+Performance : 0.829012
+Slowdown : 1.21069
+	App 0 has 2 instances, for a yield of 0.821278.
+	App 1 has 10 instances, for a yield of 0.955578.
+	App 2 has 10 instances, for a yield of 0.85321.
+	App 3 has 5 instances, for a yield of 0.700455.
+T = 873504
+Performance : 0.820804
+Slowdown : 1.22279
+	App 0 has 2 instances, for a yield of 0.813146.
+	App 1 has 10 instances, for a yield of 0.946117.
+	App 2 has 10 instances, for a yield of 0.844763.
+	App 3 has 5 instances, for a yield of 0.69352.
+T = 882239
+Performance : 0.812677
+Slowdown : 1.23502
+	App 0 has 2 instances, for a yield of 0.805095.
+	App 1 has 10 instances, for a yield of 0.936749.
+	App 2 has 10 instances, for a yield of 0.836399.
+	App 3 has 5 instances, for a yield of 0.686653.
+T = 891062
+Performance : 0.821193
+Slowdown : 1.24737
+	App 0 has 2 instances, for a yield of 0.797124.
+	App 1 has 10 instances, for a yield of 0.927474.
+	App 2 has 11 instances, for a yield of 0.910929.
+	App 3 has 5 instances, for a yield of 0.679855.
+T = 899972
+Performance : 0.813063
+Slowdown : 1.25984
+	App 0 has 2 instances, for a yield of 0.789232.
+	App 1 has 10 instances, for a yield of 0.918291.
+	App 2 has 11 instances, for a yield of 0.90191.
+	App 3 has 5 instances, for a yield of 0.673124.
+T = 908972
+Performance : 0.805013
+Slowdown : 1.27244
+	App 0 has 2 instances, for a yield of 0.781418.
+	App 1 has 10 instances, for a yield of 0.909199.
+	App 2 has 11 instances, for a yield of 0.89298.
+	App 3 has 5 instances, for a yield of 0.666459.
+T = 918062
+Performance : 0.797042
+Slowdown : 1.28517
+	App 0 has 2 instances, for a yield of 0.773681.
+	App 1 has 10 instances, for a yield of 0.900197.
+	App 2 has 11 instances, for a yield of 0.884139.
+	App 3 has 5 instances, for a yield of 0.65986.
+T = 927242
+Performance : 0.789151
+Slowdown : 1.29802
+	App 0 has 2 instances, for a yield of 0.766021.
+	App 1 has 10 instances, for a yield of 0.891285.
+	App 2 has 11 instances, for a yield of 0.875385.
+	App 3 has 5 instances, for a yield of 0.653327.
+T = 936515
+Performance : 0.790162
+Slowdown : 1.311
+	App 0 has 2 instances, for a yield of 0.758436.
+	App 1 has 11 instances, for a yield of 0.970706.
+	App 2 has 11 instances, for a yield of 0.866718.
+	App 3 has 5 instances, for a yield of 0.646858.
+T = 945880
+Performance : 0.782338
+Slowdown : 1.32411
+	App 0 has 2 instances, for a yield of 0.750927.
+	App 1 has 11 instances, for a yield of 0.961095.
+	App 2 has 11 instances, for a yield of 0.858137.
+	App 3 has 5 instances, for a yield of 0.640454.
+T = 955339
+Performance : 0.774593
+Slowdown : 1.33735
+	App 0 has 2 instances, for a yield of 0.743492.
+	App 1 has 11 instances, for a yield of 0.951579.
+	App 2 has 11 instances, for a yield of 0.84964.
+	App 3 has 5 instances, for a yield of 0.634113.
+T = 964892
+Performance : 0.766923
+Slowdown : 1.35072
+	App 0 has 2 instances, for a yield of 0.736131.
+	App 1 has 11 instances, for a yield of 0.942158.
+	App 2 has 11 instances, for a yield of 0.841228.
+	App 3 has 5 instances, for a yield of 0.627834.
+T = 974541
+Performance : 0.774474
+Slowdown : 1.36423
+	App 0 has 2 instances, for a yield of 0.728842.
+	App 1 has 11 instances, for a yield of 0.932829.
+	App 2 has 12 instances, for a yield of 0.908617.
+	App 3 has 5 instances, for a yield of 0.621618.
+T = 984286
+Performance : 0.766806
+Slowdown : 1.37787
+	App 0 has 2 instances, for a yield of 0.721626.
+	App 1 has 11 instances, for a yield of 0.923593.
+	App 2 has 12 instances, for a yield of 0.899621.
+	App 3 has 5 instances, for a yield of 0.615464.
+T = 994129
+Performance : 0.771401
+Slowdown : 1.39165
+	App 0 has 2 instances, for a yield of 0.714481.
+	App 1 has 11 instances, for a yield of 0.914449.
+	App 2 has 12 instances, for a yield of 0.890714.
+	App 3 has 6 instances, for a yield of 0.731244.
+T = 1.00407e+06
+Performance : 0.763763
+Slowdown : 1.40557
+	App 0 has 2 instances, for a yield of 0.707407.
+	App 1 has 11 instances, for a yield of 0.905395.
+	App 2 has 12 instances, for a yield of 0.881895.
+	App 3 has 6 instances, for a yield of 0.724004.
+T = 1.01411e+06
+Performance : 0.756201
+Slowdown : 1.41962
+	App 0 has 2 instances, for a yield of 0.700403.
+	App 1 has 11 instances, for a yield of 0.896431.
+	App 2 has 12 instances, for a yield of 0.873163.
+	App 3 has 6 instances, for a yield of 0.716836.
+T = 1.02425e+06
+Performance : 0.756783
+Slowdown : 1.43382
+	App 0 has 2 instances, for a yield of 0.693469.
+	App 1 has 12 instances, for a yield of 0.968242.
+	App 2 has 12 instances, for a yield of 0.864518.
+	App 3 has 6 instances, for a yield of 0.709738.
+T = 1.03449e+06
+Performance : 0.74929
+Slowdown : 1.44816
+	App 0 has 2 instances, for a yield of 0.686603.
+	App 1 has 12 instances, for a yield of 0.958655.
+	App 2 has 12 instances, for a yield of 0.855958.
+	App 3 has 6 instances, for a yield of 0.702711.
+T = 1.04484e+06
+Performance : 0.741871
+Slowdown : 1.46264
+	App 0 has 2 instances, for a yield of 0.679804.
+	App 1 has 12 instances, for a yield of 0.949164.
+	App 2 has 12 instances, for a yield of 0.847483.
+	App 3 has 6 instances, for a yield of 0.695754.
+T = 1.05529e+06
+Performance : 0.748511
+Slowdown : 1.47727
+	App 0 has 2 instances, for a yield of 0.673074.
+	App 1 has 12 instances, for a yield of 0.939766.
+	App 2 has 13 instances, for a yield of 0.909017.
+	App 3 has 6 instances, for a yield of 0.688865.
+T = 1.06584e+06
+Performance : 0.7411
+Slowdown : 1.49204
+	App 0 has 2 instances, for a yield of 0.66641.
+	App 1 has 12 instances, for a yield of 0.930461.
+	App 2 has 13 instances, for a yield of 0.900017.
+	App 3 has 6 instances, for a yield of 0.682044.
+T = 1.0765e+06
+Performance : 0.931706
+Slowdown : 1.08987
+	App 0 has 3 instances, for a yield of 0.989717.
+	App 1 has 12 instances, for a yield of 0.921249.
+	App 2 has 13 instances, for a yield of 0.891106.
+	App 3 has 6 instances, for a yield of 0.675292.
+T = 1.08726e+06
+Performance : 0.922481
+Slowdown : 1.10077
+	App 0 has 3 instances, for a yield of 0.979918.
+	App 1 has 12 instances, for a yield of 0.912128.
+	App 2 has 13 instances, for a yield of 0.882283.
+	App 3 has 6 instances, for a yield of 0.668605.
+T = 1.09814e+06
+Performance : 0.913347
+Slowdown : 1.11178
+	App 0 has 3 instances, for a yield of 0.970216.
+	App 1 has 12 instances, for a yield of 0.903097.
+	App 2 has 13 instances, for a yield of 0.873547.
+	App 3 has 6 instances, for a yield of 0.661986.
+T = 1.10912e+06
+Performance : 0.911756
+Slowdown : 1.1229
+	App 0 has 3 instances, for a yield of 0.96061.
+	App 1 has 13 instances, for a yield of 0.968668.
+	App 2 has 13 instances, for a yield of 0.864898.
+	App 3 has 6 instances, for a yield of 0.655431.
+T = 1.12021e+06
+Performance : 0.902728
+Slowdown : 1.13413
+	App 0 has 3 instances, for a yield of 0.951099.
+	App 1 has 13 instances, for a yield of 0.959077.
+	App 2 has 13 instances, for a yield of 0.856335.
+	App 3 has 6 instances, for a yield of 0.648942.
+T = 1.13141e+06
+Performance : 0.906834
+Slowdown : 1.14547
+	App 0 has 3 instances, for a yield of 0.941682.
+	App 1 has 13 instances, for a yield of 0.949582.
+	App 2 has 14 instances, for a yield of 0.913076.
+	App 3 has 6 instances, for a yield of 0.642517.
+T = 1.14273e+06
+Performance : 0.897856
+Slowdown : 1.15692
+	App 0 has 3 instances, for a yield of 0.932358.
+	App 1 has 13 instances, for a yield of 0.94018.
+	App 2 has 14 instances, for a yield of 0.904036.
+	App 3 has 6 instances, for a yield of 0.636155.
+T = 1.15415e+06
+Performance : 0.899464
+Slowdown : 1.07711
+	App 0 has 3 instances, for a yield of 0.923127.
+	App 1 has 13 instances, for a yield of 0.930871.
+	App 2 has 14 instances, for a yield of 0.895085.
+	App 3 has 7 instances, for a yield of 0.734833.
+T = 1.16569e+06
+Performance : 0.890558
+Slowdown : 1.08788
+	App 0 has 3 instances, for a yield of 0.913987.
+	App 1 has 13 instances, for a yield of 0.921654.
+	App 2 has 14 instances, for a yield of 0.886223.
+	App 3 has 7 instances, for a yield of 0.727557.
+T = 1.17735e+06
+Performance : 0.881741
+Slowdown : 1.09876
+	App 0 has 3 instances, for a yield of 0.904938.
+	App 1 has 13 instances, for a yield of 0.912529.
+	App 2 has 14 instances, for a yield of 0.877448.
+	App 3 has 7 instances, for a yield of 0.720354.
+T = 1.18913e+06
+Performance : 0.873011
+Slowdown : 1.10975
+	App 0 has 3 instances, for a yield of 0.895978.
+	App 1 has 13 instances, for a yield of 0.903494.
+	App 2 has 14 instances, for a yield of 0.868761.
+	App 3 has 7 instances, for a yield of 0.713221.
+T = 1.20102e+06
+Performance : 0.871248
+Slowdown : 1.12084
+	App 0 has 3 instances, for a yield of 0.887107.
+	App 1 has 14 instances, for a yield of 0.96336.
+	App 2 has 14 instances, for a yield of 0.860159.
+	App 3 has 7 instances, for a yield of 0.70616.
+T = 1.21303e+06
+Performance : 0.874788
+Slowdown : 1.13205
+	App 0 has 3 instances, for a yield of 0.878324.
+	App 1 has 14 instances, for a yield of 0.953822.
+	App 2 has 15 instances, for a yield of 0.912474.
+	App 3 has 7 instances, for a yield of 0.699168.
+T = 1.22516e+06
+Performance : 0.866127
+Slowdown : 1.14337
+	App 0 has 3 instances, for a yield of 0.869628.
+	App 1 has 14 instances, for a yield of 0.944378.
+	App 2 has 15 instances, for a yield of 0.90344.
+	App 3 has 7 instances, for a yield of 0.692246.
+T = 1.23741e+06
+Performance : 0.857551
+Slowdown : 1.15481
+	App 0 has 3 instances, for a yield of 0.861017.
+	App 1 has 14 instances, for a yield of 0.935028.
+	App 2 has 15 instances, for a yield of 0.894495.
+	App 3 has 7 instances, for a yield of 0.685392.
+T = 1.24978e+06
+Performance : 0.849061
+Slowdown : 1.16636
+	App 0 has 3 instances, for a yield of 0.852492.
+	App 1 has 14 instances, for a yield of 0.92577.
+	App 2 has 15 instances, for a yield of 0.885639.
+	App 3 has 7 instances, for a yield of 0.678606.
+T = 1.26228e+06
+Performance : 0.840654
+Slowdown : 1.17802
+	App 0 has 3 instances, for a yield of 0.844052.
+	App 1 has 14 instances, for a yield of 0.916604.
+	App 2 has 15 instances, for a yield of 0.87687.
+	App 3 has 7 instances, for a yield of 0.671887.
+T = 1.2749e+06
+Performance : 0.832331
+Slowdown : 1.1898
+	App 0 has 3 instances, for a yield of 0.835695.
+	App 1 has 14 instances, for a yield of 0.907529.
+	App 2 has 15 instances, for a yield of 0.868188.
+	App 3 has 7 instances, for a yield of 0.665234.
+T = 1.28765e+06
+Performance : 0.830508
+Slowdown : 1.2017
+	App 0 has 3 instances, for a yield of 0.827421.
+	App 1 has 15 instances, for a yield of 0.962725.
+	App 2 has 15 instances, for a yield of 0.859592.
+	App 3 has 7 instances, for a yield of 0.658648.
+T = 1.30053e+06
+Performance : 0.833633
+Slowdown : 1.21371
+	App 0 has 3 instances, for a yield of 0.819229.
+	App 1 has 15 instances, for a yield of 0.953193.
+	App 2 has 16 instances, for a yield of 0.90782.
+	App 3 has 7 instances, for a yield of 0.652127.
+T = 1.31353e+06
+Performance : 0.825379
+Slowdown : 1.22585
+	App 0 has 3 instances, for a yield of 0.811117.
+	App 1 has 15 instances, for a yield of 0.943756.
+	App 2 has 16 instances, for a yield of 0.898832.
+	App 3 has 7 instances, for a yield of 0.64567.
+T = 1.32667e+06
+Performance : 0.82634
+Slowdown : 1.23811
+	App 0 has 3 instances, for a yield of 0.803086.
+	App 1 has 15 instances, for a yield of 0.934412.
+	App 2 has 16 instances, for a yield of 0.889932.
+	App 3 has 8 instances, for a yield of 0.730603.
+T = 1.33994e+06
+Performance : 0.818158
+Slowdown : 1.25049
+	App 0 has 3 instances, for a yield of 0.795135.
+	App 1 has 15 instances, for a yield of 0.92516.
+	App 2 has 16 instances, for a yield of 0.881121.
+	App 3 has 8 instances, for a yield of 0.723369.
+T = 1.35334e+06
+Performance : 0.810058
+Slowdown : 1.263
+	App 0 has 3 instances, for a yield of 0.787263.
+	App 1 has 15 instances, for a yield of 0.916.
+	App 2 has 16 instances, for a yield of 0.872397.
+	App 3 has 8 instances, for a yield of 0.716207.
+T = 1.36687e+06
+Performance : 0.808083
+Slowdown : 1.27563
+	App 0 has 3 instances, for a yield of 0.779468.
+	App 1 has 16 instances, for a yield of 0.967393.
+	App 2 has 16 instances, for a yield of 0.86376.
+	App 3 has 8 instances, for a yield of 0.709116.
+T = 1.38054e+06
+Performance : 0.810773
+Slowdown : 1.28838
+	App 0 has 3 instances, for a yield of 0.77175.
+	App 1 has 16 instances, for a yield of 0.957815.
+	App 2 has 17 instances, for a yield of 0.908658.
+	App 3 has 8 instances, for a yield of 0.702095.
+T = 1.39434e+06
+Performance : 0.802745
+Slowdown : 1.30127
+	App 0 has 3 instances, for a yield of 0.764109.
+	App 1 has 16 instances, for a yield of 0.948331.
+	App 2 has 17 instances, for a yield of 0.899661.
+	App 3 has 8 instances, for a yield of 0.695143.
+T = 1.40829e+06
+Performance : 0.794797
+Slowdown : 1.31428
+	App 0 has 3 instances, for a yield of 0.756544.
+	App 1 has 16 instances, for a yield of 0.938942.
+	App 2 has 17 instances, for a yield of 0.890754.
+	App 3 has 8 instances, for a yield of 0.688261.
+T = 1.42237e+06
+Performance : 0.786928
+Slowdown : 1.32742
+	App 0 has 3 instances, for a yield of 0.749053.
+	App 1 has 16 instances, for a yield of 0.929645.
+	App 2 has 17 instances, for a yield of 0.881935.
+	App 3 has 8 instances, for a yield of 0.681446.
+T = 1.43659e+06
+Performance : 0.927464
+Slowdown : 1.09083
+	App 0 has 4 instances, for a yield of 0.988849.
+	App 1 has 16 instances, for a yield of 0.920441.
+	App 2 has 17 instances, for a yield of 0.873202.
+	App 3 has 8 instances, for a yield of 0.674699.
+T = 1.45096e+06
+Performance : 0.923977
+Slowdown : 1.10174
+	App 0 has 4 instances, for a yield of 0.979059.
+	App 1 has 17 instances, for a yield of 0.968286.
+	App 2 has 17 instances, for a yield of 0.864557.
+	App 3 has 8 instances, for a yield of 0.668019.
+T = 1.46547e+06
+Performance : 0.924899
+Slowdown : 1.11276
+	App 0 has 4 instances, for a yield of 0.969365.
+	App 1 has 17 instances, for a yield of 0.958699.
+	App 2 has 18 instances, for a yield of 0.90635.
+	App 3 has 8 instances, for a yield of 0.661405.
+T = 1.48012e+06
+Performance : 0.915742
+Slowdown : 1.12388
+	App 0 has 4 instances, for a yield of 0.959767.
+	App 1 has 17 instances, for a yield of 0.949207.
+	App 2 has 18 instances, for a yield of 0.897376.
+	App 3 has 8 instances, for a yield of 0.654856.
+T = 1.49492e+06
+Performance : 0.91478
+Slowdown : 1.04635
+	App 0 has 4 instances, for a yield of 0.950265.
+	App 1 has 17 instances, for a yield of 0.939808.
+	App 2 has 18 instances, for a yield of 0.888491.
+	App 3 has 9 instances, for a yield of 0.729419.
+T = 1.50987e+06
+Performance : 0.905723
+Slowdown : 1.05681
+	App 0 has 4 instances, for a yield of 0.940856.
+	App 1 has 17 instances, for a yield of 0.930503.
+	App 2 has 18 instances, for a yield of 0.879694.
+	App 3 has 9 instances, for a yield of 0.722197.
+T = 1.52497e+06
+Performance : 0.896755
+Slowdown : 1.06738
+	App 0 has 4 instances, for a yield of 0.931541.
+	App 1 has 17 instances, for a yield of 0.921291.
+	App 2 has 18 instances, for a yield of 0.870984.
+	App 3 has 9 instances, for a yield of 0.715047.
+T = 1.54022e+06
+Performance : 0.902824
+Slowdown : 1.07806
+	App 0 has 4 instances, for a yield of 0.922318.
+	App 1 has 18 instances, for a yield of 0.965826.
+	App 2 has 19 instances, for a yield of 0.91027.
+	App 3 has 9 instances, for a yield of 0.707967.
+T = 1.55562e+06
+Performance : 0.893885
+Slowdown : 1.08884
+	App 0 has 4 instances, for a yield of 0.913186.
+	App 1 has 18 instances, for a yield of 0.956263.
+	App 2 has 19 instances, for a yield of 0.901257.
+	App 3 has 9 instances, for a yield of 0.700958.
+T = 1.57118e+06
+Performance : 0.885035
+Slowdown : 1.09972
+	App 0 has 4 instances, for a yield of 0.904144.
+	App 1 has 18 instances, for a yield of 0.946795.
+	App 2 has 19 instances, for a yield of 0.892334.
+	App 3 has 9 instances, for a yield of 0.694017.
+T = 1.58689e+06
+Performance : 0.876272
+Slowdown : 1.11072
+	App 0 has 4 instances, for a yield of 0.895192.
+	App 1 has 18 instances, for a yield of 0.937421.
+	App 2 has 19 instances, for a yield of 0.883499.
+	App 3 has 9 instances, for a yield of 0.687146.
+T = 1.60276e+06
+Performance : 0.867596
+Slowdown : 1.12183
+	App 0 has 4 instances, for a yield of 0.886329.
+	App 1 has 18 instances, for a yield of 0.92814.
+	App 2 has 19 instances, for a yield of 0.874751.
+	App 3 has 9 instances, for a yield of 0.680343.
+T = 1.61879e+06
+Performance : 0.873228
+Slowdown : 1.13305
+	App 0 has 4 instances, for a yield of 0.877553.
+	App 1 has 19 instances, for a yield of 0.970003.
+	App 2 has 20 instances, for a yield of 0.911674.
+	App 3 has 9 instances, for a yield of 0.673606.
+T = 1.63498e+06
+Performance : 0.864582
+Slowdown : 1.14438
+	App 0 has 4 instances, for a yield of 0.868865.
+	App 1 has 19 instances, for a yield of 0.960399.
+	App 2 has 20 instances, for a yield of 0.902647.
+	App 3 has 9 instances, for a yield of 0.666937.
+T = 1.65133e+06
+Performance : 0.863359
+Slowdown : 1.15582
+	App 0 has 4 instances, for a yield of 0.860262.
+	App 1 has 19 instances, for a yield of 0.95089.
+	App 2 has 20 instances, for a yield of 0.89371.
+	App 3 has 10 instances, for a yield of 0.733704.
+T = 1.66784e+06
+Performance : 0.854811
+Slowdown : 1.16738
+	App 0 has 4 instances, for a yield of 0.851745.
+	App 1 has 19 instances, for a yield of 0.941475.
+	App 2 has 20 instances, for a yield of 0.884862.
+	App 3 has 10 instances, for a yield of 0.72644.
+T = 1.68452e+06
+Performance : 0.846347
+Slowdown : 1.17905
+	App 0 has 4 instances, for a yield of 0.843312.
+	App 1 has 19 instances, for a yield of 0.932154.
+	App 2 has 20 instances, for a yield of 0.876101.
+	App 3 has 10 instances, for a yield of 0.719247.
+T = 1.70136e+06
+Performance : 0.851499
+Slowdown : 1.19084
+	App 0 has 4 instances, for a yield of 0.834962.
+	App 1 has 20 instances, for a yield of 0.9715.
+	App 2 has 21 instances, for a yield of 0.910798.
+	App 3 has 10 instances, for a yield of 0.712126.
+T = 1.71838e+06
+Performance : 0.843069
+Slowdown : 1.20275
+	App 0 has 4 instances, for a yield of 0.826695.
+	App 1 has 20 instances, for a yield of 0.961881.
+	App 2 has 21 instances, for a yield of 0.90178.
+	App 3 has 10 instances, for a yield of 0.705075.
+T = 1.73556e+06
+Performance : 0.834721
+Slowdown : 1.21478
+	App 0 has 4 instances, for a yield of 0.81851.
+	App 1 has 20 instances, for a yield of 0.952357.
+	App 2 has 21 instances, for a yield of 0.892851.
+	App 3 has 10 instances, for a yield of 0.698094.
+T = 1.75292e+06
+Performance : 0.826457
+Slowdown : 1.22693
+	App 0 has 4 instances, for a yield of 0.810406.
+	App 1 has 20 instances, for a yield of 0.942928.
+	App 2 has 21 instances, for a yield of 0.884011.
+	App 3 has 10 instances, for a yield of 0.691183.
+T = 1.77045e+06
+Performance : 0.818274
+Slowdown : 1.2392
+	App 0 has 4 instances, for a yield of 0.802382.
+	App 1 has 20 instances, for a yield of 0.933592.
+	App 2 has 21 instances, for a yield of 0.875259.
+	App 3 has 10 instances, for a yield of 0.684339.
+T = 1.78815e+06
+Performance : 0.942213
+Slowdown : 1.08622
+	App 0 has 5 instances, for a yield of 0.993047.
+	App 1 has 21 instances, for a yield of 0.970566.
+	App 2 has 22 instances, for a yield of 0.907859.
+	App 3 has 10 instances, for a yield of 0.677563.
+T = 1.80603e+06
+Performance : 0.932884
+Slowdown : 1.09708
+	App 0 has 5 instances, for a yield of 0.983215.
+	App 1 has 21 instances, for a yield of 0.960956.
+	App 2 has 22 instances, for a yield of 0.89887.
+	App 3 has 10 instances, for a yield of 0.670855.
+T = 1.82409e+06
+Performance : 0.93029
+Slowdown : 1.02826
+	App 0 has 5 instances, for a yield of 0.97348.
+	App 1 has 21 instances, for a yield of 0.951442.
+	App 2 has 22 instances, for a yield of 0.889971.
+	App 3 has 11 instances, for a yield of 0.730634.
+T = 1.84233e+06
+Performance : 0.921079
+Slowdown : 1.03854
+	App 0 has 5 instances, for a yield of 0.963842.
+	App 1 has 21 instances, for a yield of 0.942022.
+	App 2 has 22 instances, for a yield of 0.881159.
+	App 3 has 11 instances, for a yield of 0.7234.
+T = 1.86076e+06
+Performance : 0.919891
+Slowdown : 1.04193
+	App 0 has 5 instances, for a yield of 0.954299.
+	App 1 has 21 instances, for a yield of 0.932695.
+	App 2 has 23 instances, for a yield of 0.912091.
+	App 3 has 11 instances, for a yield of 0.716238.
+T = 1.87936e+06
+Performance : 0.91518
+Slowdown : 1.05235
+	App 0 has 5 instances, for a yield of 0.94485.
+	App 1 has 22 instances, for a yield of 0.967434.
+	App 2 has 23 instances, for a yield of 0.90306.
+	App 3 has 11 instances, for a yield of 0.709146.
+T = 1.89816e+06
+Performance : 0.906119
+Slowdown : 1.06287
+	App 0 has 5 instances, for a yield of 0.935495.
+	App 1 has 22 instances, for a yield of 0.957856.
+	App 2 has 23 instances, for a yield of 0.894119.
+	App 3 has 11 instances, for a yield of 0.702125.
+T = 1.91714e+06
+Performance : 0.897148
+Slowdown : 1.0735
+	App 0 has 5 instances, for a yield of 0.926233.
+	App 1 has 22 instances, for a yield of 0.948372.
+	App 2 has 23 instances, for a yield of 0.885267.
+	App 3 has 11 instances, for a yield of 0.695173.
+T = 1.93631e+06
+Performance : 0.895887
+Slowdown : 1.08423
+	App 0 has 5 instances, for a yield of 0.917062.
+	App 1 has 22 instances, for a yield of 0.938982.
+	App 2 has 24 instances, for a yield of 0.91461.
+	App 3 has 11 instances, for a yield of 0.68829.
+T = 1.95567e+06
+Performance : 0.887017
+Slowdown : 1.09508
+	App 0 has 5 instances, for a yield of 0.907983.
+	App 1 has 22 instances, for a yield of 0.929685.
+	App 2 has 24 instances, for a yield of 0.905555.
+	App 3 has 11 instances, for a yield of 0.681476.
+T = 1.97523e+06
+Performance : 0.882418
+Slowdown : 1.10603
+	App 0 has 5 instances, for a yield of 0.898993.
+	App 1 has 23 instances, for a yield of 0.962321.
+	App 2 has 24 instances, for a yield of 0.896589.
+	App 3 has 11 instances, for a yield of 0.674728.
+T = 1.99498e+06
+Performance : 0.879755
+Slowdown : 1.11709
+	App 0 has 5 instances, for a yield of 0.890092.
+	App 1 has 23 instances, for a yield of 0.952793.
+	App 2 has 24 instances, for a yield of 0.887712.
+	App 3 has 12 instances, for a yield of 0.728779.
+T = 2.01493e+06
+Performance : 0.871044
+Slowdown : 1.12826
+	App 0 has 5 instances, for a yield of 0.881279.
+	App 1 has 23 instances, for a yield of 0.943359.
+	App 2 has 24 instances, for a yield of 0.878922.
+	App 3 has 12 instances, for a yield of 0.721564.
+T = 2.03508e+06
+Performance : 0.869672
+Slowdown : 1.13954
+	App 0 has 5 instances, for a yield of 0.872553.
+	App 1 has 23 instances, for a yield of 0.934019.
+	App 2 has 25 instances, for a yield of 0.906479.
+	App 3 has 12 instances, for a yield of 0.71442.
+T = 2.05543e+06
+Performance : 0.865082
+Slowdown : 1.15094
+	App 0 has 5 instances, for a yield of 0.863914.
+	App 1 has 24 instances, for a yield of 0.964979.
+	App 2 has 25 instances, for a yield of 0.897504.
+	App 3 has 12 instances, for a yield of 0.707346.
+T = 2.07599e+06
+Performance : 0.856517
+Slowdown : 1.16244
+	App 0 has 5 instances, for a yield of 0.855361.
+	App 1 has 24 instances, for a yield of 0.955424.
+	App 2 has 25 instances, for a yield of 0.888618.
+	App 3 has 12 instances, for a yield of 0.700343.
+T = 2.09675e+06
+Performance : 0.855075
+Slowdown : 1.17407
+	App 0 has 5 instances, for a yield of 0.846892.
+	App 1 has 24 instances, for a yield of 0.945965.
+	App 2 has 26 instances, for a yield of 0.915013.
+	App 3 has 12 instances, for a yield of 0.693409.
+T = 2.11771e+06
+Performance : 0.846609
+Slowdown : 1.18581
+	App 0 has 5 instances, for a yield of 0.838507.
+	App 1 has 24 instances, for a yield of 0.936599.
+	App 2 has 26 instances, for a yield of 0.905953.
+	App 3 has 12 instances, for a yield of 0.686543.
+T = 2.13889e+06
+Performance : 0.84209
+Slowdown : 1.19767
+	App 0 has 5 instances, for a yield of 0.830205.
+	App 1 has 25 instances, for a yield of 0.965964.
+	App 2 has 26 instances, for a yield of 0.896983.
+	App 3 has 12 instances, for a yield of 0.679746.
+T = 2.16028e+06
+Performance : 0.938
+Slowdown : 1.03042
+	App 0 has 6 instances, for a yield of 0.986382.
+	App 1 has 25 instances, for a yield of 0.9564.
+	App 2 has 26 instances, for a yield of 0.888102.
+	App 3 has 13 instances, for a yield of 0.7291.
+T = 2.18188e+06
+Performance : 0.935476
+Slowdown : 1.02615
+	App 0 has 6 instances, for a yield of 0.976616.
+	App 1 has 25 instances, for a yield of 0.946931.
+	App 2 has 27 instances, for a yield of 0.913129.
+	App 3 has 13 instances, for a yield of 0.721881.
+T = 2.2037e+06
+Performance : 0.926214
+Slowdown : 1.03641
+	App 0 has 6 instances, for a yield of 0.966946.
+	App 1 has 25 instances, for a yield of 0.937555.
+	App 2 has 27 instances, for a yield of 0.904088.
+	App 3 has 13 instances, for a yield of 0.714734.
+T = 2.22574e+06
+Performance : 0.920757
+Slowdown : 1.04003
+	App 0 has 6 instances, for a yield of 0.957372.
+	App 1 has 26 instances, for a yield of 0.965403.
+	App 2 has 27 instances, for a yield of 0.895137.
+	App 3 has 13 instances, for a yield of 0.707658.
+T = 2.248e+06
+Performance : 0.91164
+Slowdown : 1.05043
+	App 0 has 6 instances, for a yield of 0.947893.
+	App 1 has 26 instances, for a yield of 0.955845.
+	App 2 has 27 instances, for a yield of 0.886274.
+	App 3 has 13 instances, for a yield of 0.700651.
+T = 2.27048e+06
+Performance : 0.909114
+Slowdown : 1.06093
+	App 0 has 6 instances, for a yield of 0.938508.
+	App 1 has 26 instances, for a yield of 0.946381.
+	App 2 has 28 instances, for a yield of 0.909999.
+	App 3 has 13 instances, for a yield of 0.693714.
+T = 2.29318e+06
+Performance : 0.900113
+Slowdown : 1.07154
+	App 0 has 6 instances, for a yield of 0.929216.
+	App 1 has 26 instances, for a yield of 0.937011.
+	App 2 has 28 instances, for a yield of 0.900989.
+	App 3 has 13 instances, for a yield of 0.686845.
+T = 2.31611e+06
+Performance : 0.9
+Slowdown : 1.08075
+	App 0 has 6 instances, for a yield of 0.920016.
+	App 1 has 27 instances, for a yield of 0.963416.
+	App 2 has 28 instances, for a yield of 0.892068.
+	App 3 has 14 instances, for a yield of 0.732356.
+T = 2.33927e+06
+Performance : 0.897398
+Slowdown : 1.09156
+	App 0 has 6 instances, for a yield of 0.910907.
+	App 1 has 27 instances, for a yield of 0.953877.
+	App 2 has 29 instances, for a yield of 0.91478.
+	App 3 has 14 instances, for a yield of 0.725105.
+T = 2.36267e+06
+Performance : 0.888513
+Slowdown : 1.10248
+	App 0 has 6 instances, for a yield of 0.901888.
+	App 1 has 27 instances, for a yield of 0.944433.
+	App 2 has 29 instances, for a yield of 0.905723.
+	App 3 has 14 instances, for a yield of 0.717926.
+T = 2.38629e+06
+Performance : 0.883179
+Slowdown : 1.1135
+	App 0 has 6 instances, for a yield of 0.892958.
+	App 1 has 28 instances, for a yield of 0.969715.
+	App 2 has 29 instances, for a yield of 0.896755.
+	App 3 has 14 instances, for a yield of 0.710818.
+T = 2.41016e+06
+Performance : 0.874435
+Slowdown : 1.12463
+	App 0 has 6 instances, for a yield of 0.884117.
+	App 1 has 28 instances, for a yield of 0.960113.
+	App 2 has 29 instances, for a yield of 0.887877.
+	App 3 has 14 instances, for a yield of 0.70378.
+T = 2.43426e+06
+Performance : 0.87184
+Slowdown : 1.13588
+	App 0 has 6 instances, for a yield of 0.875364.
+	App 1 has 28 instances, for a yield of 0.950607.
+	App 2 has 30 instances, for a yield of 0.909399.
+	App 3 has 14 instances, for a yield of 0.696812.
+T = 2.4586e+06
+Performance : 0.863208
+Slowdown : 1.14724
+	App 0 has 6 instances, for a yield of 0.866697.
+	App 1 has 28 instances, for a yield of 0.941195.
+	App 2 has 30 instances, for a yield of 0.900395.
+	App 3 has 14 instances, for a yield of 0.689913.
+T = 2.48319e+06
+Performance : 0.862869
+Slowdown : 1.15871
+	App 0 has 6 instances, for a yield of 0.858116.
+	App 1 has 29 instances, for a yield of 0.965158.
+	App 2 has 30 instances, for a yield of 0.89148.
+	App 3 has 15 instances, for a yield of 0.731873.
+T = 2.50802e+06
+Performance : 0.945172
+Slowdown : 1.01684
+	App 0 has 7 instances, for a yield of 0.991223.
+	App 1 has 29 instances, for a yield of 0.955602.
+	App 2 has 31 instances, for a yield of 0.912076.
+	App 3 has 15 instances, for a yield of 0.724627.
+T = 2.5331e+06
+Performance : 0.935813
+Slowdown : 1.02701
+	App 0 has 7 instances, for a yield of 0.981408.
+	App 1 has 29 instances, for a yield of 0.94614.
+	App 2 has 31 instances, for a yield of 0.903045.
+	App 3 has 15 instances, for a yield of 0.717453.
+T = 2.55843e+06
+Performance : 0.929778
+Slowdown : 1.03609
+	App 0 has 7 instances, for a yield of 0.971692.
+	App 1 has 30 instances, for a yield of 0.969075.
+	App 2 has 31 instances, for a yield of 0.894104.
+	App 3 has 15 instances, for a yield of 0.710349.
+T = 2.58401e+06
+Performance : 0.926284
+Slowdown : 1.04645
+	App 0 has 7 instances, for a yield of 0.962071.
+	App 1 has 30 instances, for a yield of 0.95948.
+	App 2 has 32 instances, for a yield of 0.913808.
+	App 3 has 15 instances, for a yield of 0.703316.
+T = 2.60985e+06
+Performance : 0.917113
+Slowdown : 1.05691
+	App 0 has 7 instances, for a yield of 0.952545.
+	App 1 has 30 instances, for a yield of 0.949981.
+	App 2 has 32 instances, for a yield of 0.90476.
+	App 3 has 15 instances, for a yield of 0.696352.
+T = 2.63595e+06
+Performance : 0.912629
+Slowdown : 1.05428
+	App 0 has 7 instances, for a yield of 0.943114.
+	App 1 has 30 instances, for a yield of 0.940575.
+	App 2 has 32 instances, for a yield of 0.895802.
+	App 3 has 16 instances, for a yield of 0.735422.
+T = 2.66231e+06
+Performance : 0.91224
+Slowdown : 1.06483
+	App 0 has 7 instances, for a yield of 0.933776.
+	App 1 has 31 instances, for a yield of 0.962304.
+	App 2 has 33 instances, for a yield of 0.91465.
+	App 3 has 16 instances, for a yield of 0.72814.
+T = 2.68893e+06
+Performance : 0.903208
+Slowdown : 1.07547
+	App 0 has 7 instances, for a yield of 0.924531.
+	App 1 has 31 instances, for a yield of 0.952777.
+	App 2 has 33 instances, for a yield of 0.905594.
+	App 3 has 16 instances, for a yield of 0.720931.
+T = 2.71582e+06
+Performance : 0.894266
+Slowdown : 1.08623
+	App 0 has 7 instances, for a yield of 0.915377.
+	App 1 has 31 instances, for a yield of 0.943343.
+	App 2 has 33 instances, for a yield of 0.896628.
+	App 3 has 16 instances, for a yield of 0.713793.
+T = 2.74298e+06
+Performance : 0.893805
+Slowdown : 1.09709
+	App 0 has 7 instances, for a yield of 0.906314.
+	App 1 has 32 instances, for a yield of 0.964132.
+	App 2 has 34 instances, for a yield of 0.914652.
+	App 3 has 16 instances, for a yield of 0.706726.
+T = 2.77041e+06
+Performance : 0.884955
+Slowdown : 1.10806
+	App 0 has 7 instances, for a yield of 0.897341.
+	App 1 has 32 instances, for a yield of 0.954586.
+	App 2 has 34 instances, for a yield of 0.905596.
+	App 3 has 16 instances, for a yield of 0.699728.
+T = 2.79812e+06
+Performance : 0.876193
+Slowdown : 1.11914
+	App 0 has 7 instances, for a yield of 0.888456.
+	App 1 has 32 instances, for a yield of 0.945135.
+	App 2 has 34 instances, for a yield of 0.896629.
+	App 3 has 16 instances, for a yield of 0.6928.
+T = 2.8261e+06
+Performance : 0.879952
+Slowdown : 1.13033
+	App 0 has 7 instances, for a yield of 0.87966.
+	App 1 has 33 instances, for a yield of 0.96502.
+	App 2 has 35 instances, for a yield of 0.913862.
+	App 3 has 17 instances, for a yield of 0.728812.
+T = 2.85436e+06
+Performance : 0.871239
+Slowdown : 1.14164
+	App 0 has 7 instances, for a yield of 0.87095.
+	App 1 has 33 instances, for a yield of 0.955466.
+	App 2 has 35 instances, for a yield of 0.904814.
+	App 3 has 17 instances, for a yield of 0.721596.
+T = 2.8829e+06
+Performance : 0.936527
+Slowdown : 1.03014
+	App 0 has 8 instances, for a yield of 0.985516.
+	App 1 has 33 instances, for a yield of 0.946006.
+	App 2 has 35 instances, for a yield of 0.895855.
+	App 3 has 17 instances, for a yield of 0.714452.
+T = 2.91173e+06
+Performance : 0.935161
+Slowdown : 1.04044
+	App 0 has 8 instances, for a yield of 0.975759.
+	App 1 has 34 instances, for a yield of 0.965022.
+	App 2 has 36 instances, for a yield of 0.912328.
+	App 3 has 17 instances, for a yield of 0.707378.
+T = 2.94085e+06
+Performance : 0.925902
+Slowdown : 1.05084
+	App 0 has 8 instances, for a yield of 0.966098.
+	App 1 has 34 instances, for a yield of 0.955468.
+	App 2 has 36 instances, for a yield of 0.903295.
+	App 3 has 17 instances, for a yield of 0.700374.
+T = 2.97026e+06
+Performance : 0.920814
+Slowdown : 1.03949
+	App 0 has 8 instances, for a yield of 0.956533.
+	App 1 has 34 instances, for a yield of 0.946007.
+	App 2 has 36 instances, for a yield of 0.894352.
+	App 3 has 18 instances, for a yield of 0.734231.
+T = 2.99996e+06
+Performance : 0.919371
+Slowdown : 1.04989
+	App 0 has 8 instances, for a yield of 0.947062.
+	App 1 has 35 instances, for a yield of 0.964189.
+	App 2 has 37 instances, for a yield of 0.910094.
+	App 3 has 18 instances, for a yield of 0.726961.
+T = 3.02996e+06
+Performance : 0.910268
+Slowdown : 1.06039
+	App 0 has 8 instances, for a yield of 0.937685.
+	App 1 has 35 instances, for a yield of 0.954643.
+	App 2 has 37 instances, for a yield of 0.901083.
+	App 3 has 18 instances, for a yield of 0.719763.
+T = 3.06026e+06
+Performance : 0.901256
+Slowdown : 1.07099
+	App 0 has 8 instances, for a yield of 0.928401.
+	App 1 has 35 instances, for a yield of 0.945191.
+	App 2 has 37 instances, for a yield of 0.892161.
+	App 3 has 18 instances, for a yield of 0.712637.
+T = 3.09086e+06
+Performance : 0.899781
+Slowdown : 1.0817
+	App 0 has 8 instances, for a yield of 0.919209.
+	App 1 has 36 instances, for a yield of 0.962571.
+	App 2 has 38 instances, for a yield of 0.907202.
+	App 3 has 18 instances, for a yield of 0.705581.
+T = 3.12177e+06
+Performance : 0.890872
+Slowdown : 1.09252
+	App 0 has 8 instances, for a yield of 0.910108.
+	App 1 has 36 instances, for a yield of 0.95304.
+	App 2 has 38 instances, for a yield of 0.89822.
+	App 3 has 18 instances, for a yield of 0.698595.
+T = 3.15299e+06
+Performance : 0.893196
+Slowdown : 1.10344
+	App 0 has 8 instances, for a yield of 0.901097.
+	App 1 has 37 instances, for a yield of 0.969816.
+	App 2 has 39 instances, for a yield of 0.91273.
+	App 3 has 19 instances, for a yield of 0.730105.
+T = 3.18452e+06
+Performance : 0.884353
+Slowdown : 1.11448
+	App 0 has 8 instances, for a yield of 0.892175.
+	App 1 has 37 instances, for a yield of 0.960213.
+	App 2 has 39 instances, for a yield of 0.903693.
+	App 3 has 19 instances, for a yield of 0.722876.
+T = 3.21636e+06
+Performance : 0.875597
+Slowdown : 1.12562
+	App 0 has 8 instances, for a yield of 0.883342.
+	App 1 has 37 instances, for a yield of 0.950706.
+	App 2 has 39 instances, for a yield of 0.894745.
+	App 3 has 19 instances, for a yield of 0.715719.
+T = 3.24853e+06
+Performance : 0.939609
+Slowdown : 1.0386
+	App 0 has 9 instances, for a yield of 0.98392.
+	App 1 has 38 instances, for a yield of 0.966734.
+	App 2 has 40 instances, for a yield of 0.908601.
+	App 3 has 19 instances, for a yield of 0.708633.
+T = 3.28101e+06
+Performance : 0.930306
+Slowdown : 1.04898
+	App 0 has 9 instances, for a yield of 0.974179.
+	App 1 has 38 instances, for a yield of 0.957162.
+	App 2 has 40 instances, for a yield of 0.899605.
+	App 3 has 19 instances, for a yield of 0.701616.
+T = 3.31382e+06
+Performance : 0.929205
+Slowdown : 1.03087
+	App 0 has 9 instances, for a yield of 0.964533.
+	App 1 has 38 instances, for a yield of 0.947685.
+	App 2 has 41 instances, for a yield of 0.912966.
+	App 3 has 20 instances, for a yield of 0.731231.
+T = 3.34696e+06
+Performance : 0.922474
+Slowdown : 1.04118
+	App 0 has 9 instances, for a yield of 0.954983.
+	App 1 has 39 instances, for a yield of 0.962994.
+	App 2 has 41 instances, for a yield of 0.903927.
+	App 3 has 20 instances, for a yield of 0.723991.
+T = 3.38043e+06
+Performance : 0.913341
+Slowdown : 1.05159
+	App 0 has 9 instances, for a yield of 0.945528.
+	App 1 has 39 instances, for a yield of 0.95346.
+	App 2 has 41 instances, for a yield of 0.894977.
+	App 3 has 20 instances, for a yield of 0.716823.
+T = 3.41423e+06
+Performance : 0.911041
+Slowdown : 1.06211
+	App 0 has 9 instances, for a yield of 0.936166.
+	App 1 has 40 instances, for a yield of 0.968225.
+	App 2 has 42 instances, for a yield of 0.907728.
+	App 3 has 20 instances, for a yield of 0.709726.
+T = 3.44838e+06
+Performance : 0.90202
+Slowdown : 1.07273
+	App 0 has 9 instances, for a yield of 0.926897.
+	App 1 has 40 instances, for a yield of 0.958639.
+	App 2 has 42 instances, for a yield of 0.898741.
+	App 3 has 20 instances, for a yield of 0.702699.
+T = 3.48286e+06
+Performance : 0.900806
+Slowdown : 1.08346
+	App 0 has 9 instances, for a yield of 0.91772.
+	App 1 has 40 instances, for a yield of 0.949147.
+	App 2 has 43 instances, for a yield of 0.911029.
+	App 3 has 21 instances, for a yield of 0.730529.
+T = 3.51769e+06
+Performance : 0.894236
+Slowdown : 1.09429
+	App 0 has 9 instances, for a yield of 0.908634.
+	App 1 has 41 instances, for a yield of 0.963244.
+	App 2 has 43 instances, for a yield of 0.902009.
+	App 3 has 21 instances, for a yield of 0.723296.
+T = 3.55286e+06
+Performance : 0.889536
+Slowdown : 1.10523
+	App 0 has 9 instances, for a yield of 0.899638.
+	App 1 has 41 instances, for a yield of 0.953707.
+	App 2 has 44 instances, for a yield of 0.913847.
+	App 3 has 21 instances, for a yield of 0.716134.
+T = 2.50802e+06
+Performance : 0.945172
+Slowdown : 1.01684
+	App 0 has 7 instances, for a yield of 0.991223.
+	App 1 has 29 instances, for a yield of 0.955602.
+	App 2 has 31 instances, for a yield of 0.912076.
+	App 3 has 15 instances, for a yield of 0.724627.
+T = 2.50777e+06
+Performance : 0.945265
+Slowdown : 1.01674
+	App 0 has 7 instances, for a yield of 0.991321.
+	App 1 has 29 instances, for a yield of 0.955697.
+	App 2 has 31 instances, for a yield of 0.912166.
+	App 3 has 15 instances, for a yield of 0.724699.
+T = 2.50752e+06
+Performance : 0.945359
+Slowdown : 1.01664
+	App 0 has 7 instances, for a yield of 0.991419.
+	App 1 has 29 instances, for a yield of 0.955791.
+	App 2 has 31 instances, for a yield of 0.912256.
+	App 3 has 15 instances, for a yield of 0.724771.
+T = 2.50727e+06
+Performance : 0.945452
+Slowdown : 1.01654
+	App 0 has 7 instances, for a yield of 0.991517.
+	App 1 has 29 instances, for a yield of 0.955886.
+	App 2 has 31 instances, for a yield of 0.912347.
+	App 3 has 15 instances, for a yield of 0.724842.
+T = 2.50702e+06
+Performance : 0.945546
+Slowdown : 1.01644
+	App 0 has 7 instances, for a yield of 0.991615.
+	App 1 has 29 instances, for a yield of 0.955981.
+	App 2 has 31 instances, for a yield of 0.912437.
+	App 3 has 15 instances, for a yield of 0.724914.
+T = 2.50678e+06
+Performance : 0.94564
+Slowdown : 1.01634
+	App 0 has 7 instances, for a yield of 0.991714.
+	App 1 has 29 instances, for a yield of 0.956075.
+	App 2 has 31 instances, for a yield of 0.912527.
+	App 3 has 15 instances, for a yield of 0.724986.
+T = 2.50653e+06
+Performance : 0.945733
+Slowdown : 1.01624
+	App 0 has 7 instances, for a yield of 0.991812.
+	App 1 has 29 instances, for a yield of 0.95617.
+	App 2 has 31 instances, for a yield of 0.912618.
+	App 3 has 15 instances, for a yield of 0.725058.
+T = 2.50628e+06
+Performance : 0.945827
+Slowdown : 1.01613
+	App 0 has 7 instances, for a yield of 0.99191.
+	App 1 has 29 instances, for a yield of 0.956265.
+	App 2 has 31 instances, for a yield of 0.912708.
+	App 3 has 15 instances, for a yield of 0.72513.
+T = 2.50603e+06
+Performance : 0.945921
+Slowdown : 1.01603
+	App 0 has 7 instances, for a yield of 0.992008.
+	App 1 has 29 instances, for a yield of 0.956359.
+	App 2 has 31 instances, for a yield of 0.912799.
+	App 3 has 15 instances, for a yield of 0.725201.
+T = 2.50578e+06
+Performance : 0.946015
+Slowdown : 1.01593
+	App 0 has 7 instances, for a yield of 0.992107.
+	App 1 has 29 instances, for a yield of 0.956454.
+	App 2 has 31 instances, for a yield of 0.912889.
+	App 3 has 15 instances, for a yield of 0.725273.
+T = 2.50553e+06
+Performance : 0.946108
+Slowdown : 1.01583
+	App 0 has 7 instances, for a yield of 0.992205.
+	App 1 has 29 instances, for a yield of 0.956549.
+	App 2 has 31 instances, for a yield of 0.912979.
+	App 3 has 15 instances, for a yield of 0.725345.
+T = 2.50529e+06
+Performance : 0.946202
+Slowdown : 1.01573
+	App 0 has 7 instances, for a yield of 0.992303.
+	App 1 has 29 instances, for a yield of 0.956644.
+	App 2 has 31 instances, for a yield of 0.91307.
+	App 3 has 15 instances, for a yield of 0.725417.
+T = 2.50504e+06
+Performance : 0.946296
+Slowdown : 1.01563
+	App 0 has 7 instances, for a yield of 0.992402.
+	App 1 has 29 instances, for a yield of 0.956739.
+	App 2 has 31 instances, for a yield of 0.91316.
+	App 3 has 15 instances, for a yield of 0.725489.
+T = 2.50479e+06
+Performance : 0.94639
+Slowdown : 1.01553
+	App 0 has 7 instances, for a yield of 0.9925.
+	App 1 has 29 instances, for a yield of 0.956833.
+	App 2 has 31 instances, for a yield of 0.913251.
+	App 3 has 15 instances, for a yield of 0.725561.
+T = 2.50454e+06
+Performance : 0.946483
+Slowdown : 1.01543
+	App 0 has 7 instances, for a yield of 0.992598.
+	App 1 has 29 instances, for a yield of 0.956928.
+	App 2 has 31 instances, for a yield of 0.913342.
+	App 3 has 15 instances, for a yield of 0.725633.
+T = 2.50429e+06
+Performance : 0.946577
+Slowdown : 1.01533
+	App 0 has 7 instances, for a yield of 0.992697.
+	App 1 has 29 instances, for a yield of 0.957023.
+	App 2 has 31 instances, for a yield of 0.913432.
+	App 3 has 15 instances, for a yield of 0.725705.
+T = 2.50404e+06
+Performance : 0.946671
+Slowdown : 1.01523
+	App 0 has 7 instances, for a yield of 0.992795.
+	App 1 has 29 instances, for a yield of 0.957118.
+	App 2 has 31 instances, for a yield of 0.913523.
+	App 3 has 15 instances, for a yield of 0.725777.
+T = 2.5038e+06
+Performance : 0.946765
+Slowdown : 1.01513
+	App 0 has 7 instances, for a yield of 0.992894.
+	App 1 has 29 instances, for a yield of 0.957213.
+	App 2 has 31 instances, for a yield of 0.913613.
+	App 3 has 15 instances, for a yield of 0.725849.
+T = 2.50355e+06
+Performance : 0.946859
+Slowdown : 1.01503
+	App 0 has 7 instances, for a yield of 0.992992.
+	App 1 has 29 instances, for a yield of 0.957308.
+	App 2 has 31 instances, for a yield of 0.913704.
+	App 3 has 15 instances, for a yield of 0.725921.
+T = 2.5033e+06
+Performance : 0.946953
+Slowdown : 1.01493
+	App 0 has 7 instances, for a yield of 0.993091.
+	App 1 has 29 instances, for a yield of 0.957403.
+	App 2 has 31 instances, for a yield of 0.913795.
+	App 3 has 15 instances, for a yield of 0.725993.
+T = 2.50305e+06
+Performance : 0.947047
+Slowdown : 1.01483
+	App 0 has 7 instances, for a yield of 0.993189.
+	App 1 has 29 instances, for a yield of 0.957498.
+	App 2 has 31 instances, for a yield of 0.913885.
+	App 3 has 15 instances, for a yield of 0.726065.
+T = 2.5028e+06
+Performance : 0.947141
+Slowdown : 1.01473
+	App 0 has 7 instances, for a yield of 0.993288.
+	App 1 has 29 instances, for a yield of 0.957593.
+	App 2 has 31 instances, for a yield of 0.913976.
+	App 3 has 15 instances, for a yield of 0.726137.
+T = 2.50255e+06
+Performance : 0.947235
+Slowdown : 1.01462
+	App 0 has 7 instances, for a yield of 0.993386.
+	App 1 has 29 instances, for a yield of 0.957688.
+	App 2 has 31 instances, for a yield of 0.914067.
+	App 3 has 15 instances, for a yield of 0.726209.
+T = 2.50231e+06
+Performance : 0.947329
+Slowdown : 1.01452
+	App 0 has 7 instances, for a yield of 0.993485.
+	App 1 has 29 instances, for a yield of 0.957783.
+	App 2 has 31 instances, for a yield of 0.914157.
+	App 3 has 15 instances, for a yield of 0.726281.
+T = 2.50206e+06
+Performance : 0.947423
+Slowdown : 1.01442
+	App 0 has 7 instances, for a yield of 0.993584.
+	App 1 has 29 instances, for a yield of 0.957878.
+	App 2 has 31 instances, for a yield of 0.914248.
+	App 3 has 15 instances, for a yield of 0.726353.
+T = 2.50181e+06
+Performance : 0.947517
+Slowdown : 1.01432
+	App 0 has 7 instances, for a yield of 0.993682.
+	App 1 has 29 instances, for a yield of 0.957973.
+	App 2 has 31 instances, for a yield of 0.914339.
+	App 3 has 15 instances, for a yield of 0.726425.
+T = 2.50156e+06
+Performance : 0.947611
+Slowdown : 1.01422
+	App 0 has 7 instances, for a yield of 0.993781.
+	App 1 has 29 instances, for a yield of 0.958068.
+	App 2 has 31 instances, for a yield of 0.91443.
+	App 3 has 15 instances, for a yield of 0.726497.
+T = 2.50131e+06
+Performance : 0.862515
+Slowdown : 1.16717
+	App 0 has 6 instances, for a yield of 0.851897.
+	App 1 has 29 instances, for a yield of 0.958163.
+	App 2 has 31 instances, for a yield of 0.91452.
+	App 3 has 15 instances, for a yield of 0.726569.
+------------------------
+Max Performance of 0.945172 for T = 2.50802e+06
+Min Slowdown of 1.01684 for T = 2.50802e+06
+Max Reduced Performance of 0.947611 with dilation of 1.01422, for T = 2.50156e+06
